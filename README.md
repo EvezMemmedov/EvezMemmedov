@@ -73,12 +73,12 @@ My learning journey in Data Science, Python and data analysis.
 
 ## 🤝 Connect With Me
 
-<p>
-  <a href="[https://www.linkedin.com/in/avaz-mammadov/](https://www.linkedin.com/in/avaz-mammadov-b531a3326/)">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/avaz-mammadov-b531a3326/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="[https://github.com/EvezMemmedov](https://github.com/EvezMemmedov)">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  <a href="https://github.com/EvezMemmedov">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
 </p>
 
