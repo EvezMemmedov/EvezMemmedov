@@ -71,25 +71,13 @@ My learning journey in Data Science, Python and data analysis.
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EvezMemmedov&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvezMemmedov&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/avaz-mammadov/">
+  <a href="[https://www.linkedin.com/in/avaz-mammadov/](https://www.linkedin.com/in/avaz-mammadov-b531a3326/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/EvezMemmedov">
+  <a href="[https://github.com/EvezMemmedov](https://github.com/EvezMemmedov)">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
 </p>
