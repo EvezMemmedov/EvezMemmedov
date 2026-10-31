@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Evez 👋</h1>
+<h1 align="center">Hi there, I'm Avaz 👋</h1>
 
 <h3 align="center">
   Computer Engineering Student | Software Developer | Aspiring Data Scientist
